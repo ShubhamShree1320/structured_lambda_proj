@@ -1,6 +1,6 @@
-1.Create a local `<--folder name-->` of the project.
+1. Create a local `<--folder name-->` of the project.
 
-2.Create a `module` folder that will contain all the helper functions.
+2. Create a `module` folder that will contain all the helper functions.
 
 3. **Imp**: 
 ** A `__init__.py` must be initialized in order to use the functions from the `module` folder in other parts of the project.**

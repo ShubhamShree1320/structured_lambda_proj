@@ -1,4 +1,4 @@
-Create a local `<--folder name-->` of the project.
+1.Create a local `<--folder name-->` of the project.
 
 Create a `module` folder that will contain all the helper functions.
 
